@@ -1,0 +1,19 @@
+{
+  "good_login": {
+    "name": "admin",
+    "phone": "4053343434",
+    "role": "admin"
+  },
+
+  "bad_login": {
+    "error": "wrong name or password"
+  },
+
+  "good_register": {
+    "success": true
+  },
+
+  "bad_register": {
+    "success": false
+  }
+}
